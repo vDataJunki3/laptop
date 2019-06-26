@@ -13,7 +13,7 @@ export EDITOR="code --new-window --wait"
 export GOPATH=$HOME/Code/go
 export N_PREFIX="$HOME/.n"
 
-export PATH="/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/caseywebb/n/bin"
+export PATH="/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/cthomas/n/bin"
 PATH+=:$N_PREFIX/bin
 PATH+=:$(yarn global bin) # must come after node
 PATH+=:$GOPATH/bin
@@ -57,7 +57,7 @@ autoload -U promptinit; promptinit
 prompt spaceship
 
 
-source "/Users/casey/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
+source "/Users/cthomas/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
 
 
-source "/Users/casey/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
+source "/Users/cthomas/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
