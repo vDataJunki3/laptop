@@ -1,7 +1,7 @@
 [user]
-	name = Casey Webb
-	email = notcaseywebb@gmail.com
-	signingkey = A81562266B0C8121
+	name = Corey Thomas
+	email = corey.thms@outlook.com
+	signingkey = E5494CDABCB2225D
 [core]
 	editor = code --new-window --wait
 [commit]
